@@ -22,5 +22,5 @@ update_array_at_with(board, 0, "X")
 board
 
 def move
-    move(board, index, value)
+    move(board, input_to_index, value)
 end
