@@ -21,4 +21,4 @@ end
 
 move(board, 0, "X")
 
-board
+move
