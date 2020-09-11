@@ -23,6 +23,6 @@ update_array_at_with(board, 0, "X")
 
 board
 
-def move(board, index, char)
-   board[index] = char
+def move(board, index, value
+   board[index] = value
 end
