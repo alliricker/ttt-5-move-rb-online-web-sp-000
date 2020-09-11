@@ -20,6 +20,7 @@ def move(board, index, character)
   board[index] = character
 end
 
-move (board, 0, "X")
+move(board, 0, "X")
+
 
 board
