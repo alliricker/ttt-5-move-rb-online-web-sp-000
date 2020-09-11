@@ -19,8 +19,8 @@ end
 
 update_array_at_with(board, 0, "X")
 
-board 
+board
 
-def move 
+def move
     move(board, index, value)
 end
