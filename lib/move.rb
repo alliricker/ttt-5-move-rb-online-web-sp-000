@@ -28,4 +28,4 @@ def move(board, index, character)
 end
 
 
-board
+
